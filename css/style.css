@@ -1,0 +1,69 @@
+body {
+   font-family: Times New Roman;
+   color: black;
+   font-size: 17px;
+}
+
+div, p, a, input, ul, li {
+   box-sizing: border-box;
+}
+
+h1 {
+   color:red;
+   margin-top: 17px;
+}
+
+.block {
+   font-size: 17px;
+   background: blue;
+   border: solid blue;
+   width: 110px;
+   height: 80px;
+   padding: 0.5px 0.3px;
+   margin-bottom: 90px;
+}
+
+h2 {
+   border: 6px solid rgb(11, 139, 11);
+   background: rgb(11, 139, 11);
+   color: white
+}
+
+span {
+   color: aliceblue;
+}
+
+.new span {
+   color:red
+}
+
+h2.hello {
+   margin-top: 17px;
+   height: 30px;
+   padding: 30px 30px;
+}
+
+p.new2 {
+   padding-left: 110px;
+}
+
+.list1 {
+   border: 1px solid black;
+   font-size: 21px;
+}
+
+.list2 {
+   border: 1.5px solid black;
+   font-size: 21px;
+}
+
+.list3 {
+   border: 1px solid black;
+   font-size: 21px;
+}
+
+
+
+
+
+
